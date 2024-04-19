@@ -1,0 +1,1 @@
+Time comparison between non-parallel and parallel streams in Java. Both streams are given the task of processing large images. Thread number is guven as a program argument.

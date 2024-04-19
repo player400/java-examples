@@ -1,0 +1,1 @@
+Basic usage example of Java web sockets and output/input streams in a Server/Client architecture.

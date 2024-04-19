@@ -1,0 +1,1 @@
+Simple demonstration of Java Persistence API with Hibernate library and H2 relational database.
